@@ -11,7 +11,7 @@ function App() {
         },        
         {
             hour: "2",
-            description: "Imposto de renda 2022: Receita abre consultas ao segundo lote de restituição nesta quinta; Veja se você está no grupo"
+            description: "Imposto de Renda 2022: Receita abre consultas ao 2º lote de restituição nesta quinta; veja se você está no grupo"
         },
         {
             hour: "3",
@@ -19,7 +19,7 @@ function App() {
         },
         {
             hour:"4",
-            description: "Em Itajubá, assaltantes armados atacam agência da caixa econômica federal; sete ficam feridos"
+            description: "Em Itajubá, assaltantes armados atacam agência da caixa econômica federal; 7 ficam feridos"
         },
         {
             hour:"5",
