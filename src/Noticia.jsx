@@ -11,7 +11,7 @@ function Noticia({horario, desc}){
 
     return(
         <div className='card'>
-            <p className='data'>{horario}</p>
+            <div>{horario}</div>
             <p className="desc">{desc}</p>
         </div>
     );
